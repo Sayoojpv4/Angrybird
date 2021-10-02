@@ -205,9 +205,9 @@
             "IMG": "Uploading ```{}``` Pic number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replyed photo | video to sticker 🏝️",
+            "STICKER_DESC": "It converts your replyed photo | video to sticker 🐦",
             "NEED_REPLY": "Reply to a pic | video 🥴",
-            "DOWNLOADING": "𝖢𝗋𝖾𝖺𝗍𝗂𝗇𝗀 𝗌𝗍𝗂𝖼𝗄𝖾𝗋 🏝️"
+            "DOWNLOADING": "```Media downloading & converting to sticker...```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -282,14 +282,14 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
+            "MP4TOAUDİO_DESC": "```Converting Video to Audio..```",
             "MP4TOAUDİO_NEEDREPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝗏𝗂𝖽𝖾𝗈 🥲",
-            "MP4TOAUDİO": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
-            "ANİM_STİCK": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
-            "ANİMATE": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
-            "STİCKER_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
+            "MP4TOAUDİO": "```Converting Video to Audio..```",
+            "ANİM_STİCK": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🐦",
+            "ANİMATE": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🐦",
+            "STİCKER_DESC": "```Media downloading & converting to sticker...```",
             "STİCKER_NEEDREPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝗌𝗍𝗂𝖼𝗄𝖾𝗋 🥲",
-            "STİCKER": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
+            "STİCKER": "```Media downloading & converting to sticker...```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
