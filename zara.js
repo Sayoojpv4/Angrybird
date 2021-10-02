@@ -12,7 +12,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
 
- Z_NUMBER: process.env.NUMBER === undefined ? '+994400602992' : process.env.NUMBER,
+ Z_NUMBER: process.env.NUMBER === undefined ? '919207168374' : process.env.NUMBER,
  Z_OWNER: process.env.OWNER_NAME === undefined ? 'Sayooj' : process.env.OWNER_NAME,
 
 };
