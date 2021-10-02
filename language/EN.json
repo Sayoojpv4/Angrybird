@@ -207,7 +207,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replyed photo | video to sticker 🐦",
             "NEED_REPLY": "Reply to a pic | video 🥴",
-            "DOWNLOADING": "```Media downloading & converting to sticker...```"
+            "DOWNLOADING": "```Media downloading & converting to photo...```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
