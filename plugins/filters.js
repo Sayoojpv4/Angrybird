@@ -183,7 +183,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '15862077024@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.mp4Audio, contextInfo: { forwardingScore: 1000, isForwarded: true }, quoted : message.data, ptt: false})
     }
-const array = ['Zara','Bye','bye','Poli','Dance','Gd mrng','Ara','Poyi','myr','poda','podi','Pain','girl','asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Hlo','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie']
+const array = ['Zara','Bye','bye','Poli','Dance','Gd mrng','Ara','Poyi','poda','podi','Pain','girl','asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Hlo','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','love','list','machu','menu','mute','nee','onn','oo','pa','so','unmute','wait','adi','army','bye','chaya','edit','ip','kayari','la','mari','money','monu','nallath','night','nyt','on','patti','po','poth','sir','a','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','Hi','sad','don','Loki','Aada','Ara','Bgm','Bye','Dance','Dey','Di','Error','Fuck','Group','Hello','Muthe','Poli','Remove','Sayooj','Sayumon','Tripp','alive','ayin','bot','come','copy','done','escape','get','help','hm','img','kali','song','let','lost','myr','ni','nice','nokk','not','oh','oru','photo','podey','podi','pottan','run','ser','sex','sorry','truth','mention','welcome']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
