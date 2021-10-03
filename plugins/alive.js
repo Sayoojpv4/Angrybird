@@ -88,7 +88,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '_*Coded By Sayooj*_\n\n```\nOS       :Mac OS	68k,Power PC ×86_64\nKernel   : 4.4.0- 1093 - aws\nPackage  : 342 (apk)\nSell     : bash 8.0.0\nTerminal : Java Script\nCPU      : AMD Ryzen 9 5900X 12 cores 3.7GHz 105W\nRAM      : Corsair Vengeance LED 16GB Kit (2 x 8GB) 3200MHz\nMemory   : 5120GB / 10240GB (Seagate BarraCuda)\nDownloading : 897mbps\nUploading   : 997mbps\nping        :12```'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '_*Coded By Sayooj*_\n\n```\nOS       :Mac OS      68k,Power PC ×86_64\nKernel   : 4.4.0- 1093 - aws\nPackage  : 342 (apk)\nSell     : bash 8.0.0\nTerminal : Java Script\nCPU      : AMD Ryzen 9 5900X 12 cores 3.7GHz 105W\nRAM      : Corsair Vengeance LED 16GB Kit (2 x 8GB) 3200MHz\nMemory   : 5120GB / 10240GB (Seagate BarraCuda)\nDownloading : 897mbps\nUploading   : 997mbps\nping        :12```'})
 
     }));
 
@@ -104,11 +104,11 @@ else if (Config.WORKTYPE == 'public') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '_*Coded By Sayooj*_\n\n```\nOS       :Mac OS	68k,Power PC ×86_64\nKernel   : 4.4.0- 1093 - aws\nPackage  : 342 (apk)\nSell     : bash 8.0.0\nTerminal : Java Script\nCPU      : AMD Ryzen 9 5900X 12 cores 3.7GHz 105W\nRAM      : Corsair Vengeance LED 16GB Kit (2 x 8GB) 3200MHz\nMemory   : 5120GB / 10240GB (Seagate BarraCuda)\nDownloading : 897mbps\nUploading   : 997mbps\nping        :12```'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '_*Coded By Sayooj*_\n\n```\n```SayuMwon💞```Angrybird🐦🤖\n*GitHub link*   : https://tinyurl.com/yhu58jt6\n*Audio Commands*    : https://tinyurl.com/yjlwwwes\n*Sticker Commands*      : https://tinyurl.com/yho37ybj\nAny doubt contcact     : https://wa.me/919207168374````})
 
     }));
 
-    Asena.addCommand({pattern: 'sysd', fromMe: false, desc: PR}, (async (message, match) => {
+    Asena.addCommand({pattern: 'git', fromMe: false, desc: PR}, (async (message, match) => {
 
     var r_text = new Array ();
 
