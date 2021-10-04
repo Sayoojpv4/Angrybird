@@ -91,7 +91,7 @@ else if (Config.WORKTYPE == 'public') {
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '_*Coded By Sayooj*_\n\n```\nGithub Link     :https://tinyurl.com/yhu58jt6\nAudio Commands  : https://tinyurl.com/yjlwwwes\nSticker Commands     : https://tinyurl.com/yho37ybj\nContact     : https://wa.me/919207168374```'})
 
     }));
-    Asena.addCommand({pattern: 'sysd', fromMe: false, desc: PR}, (async (message, match) => {
+    Asena.addCommand({pattern: 'git', fromMe: false, desc: PR}, (async (message, match) => {
 
     var r_text = new Array ();
 
