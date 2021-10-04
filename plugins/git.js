@@ -14,16 +14,16 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(rashi.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('./image/r.jpg'), mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
  
 
-        *Github link        _https://tinyurl.com/yggyjfgf_*
+        *Github link        _https://tinyurl.com/yhu58jt6*
  
 
-       *Audio commads-1     _https://tinyurl.com/yfdkmuhd_*
+       *Audio commads-1     _https://tinyurl.com/yjlwwwes*
  
  
-       *Audio commads-2     _https://tinyurl.com/yejp9qkh_*
+       *Audio commads-2     _not info👻*
   
   
-      *Sticker commads      _https://tinyurl.com/yejlp33d_*
+      *Sticker commads      _https://tinyurl.com/yho37ybj*
 `}) 
 
 })); 
