@@ -16,7 +16,7 @@ Rashi.addCommand({pattern: 'owner', fromMe: true, desc: 'it send owner details'}
 
     var rashi = await axios.get(config.RASHI, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(rashi.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `*` + config.BOTPLK + `*` + `\n\n CREATED BY ` + Sayooj.Z_OWNER + `\n\n` + `*•━━━━━━━━╼  ╾━━━━━━━•*`
+    await message.sendMessage(Buffer(rashi.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `*` + config.BOTPLK + `*` + `\n\n CREATED BY ` + wabot.AngryBird  + `\n\n` + `*•━━━━━━━━╼  ╾━━━━━━━•*`
 }) 
 
 }));
@@ -28,7 +28,7 @@ Rashi.addCommand({pattern: 'owner', fromMe: false, desc: 'it send owner details'
 
     var rashi = await axios.get(config.RASHI, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(rashi.data), MessageType.image, {mimetype: Mimetype.png, thumbnail: fs.readFileSync('./image/r.jpg'), contextInfo: {mentionedJid: message.mention}, caption: `*` + config.BOTPLK + `*` + `\n\n    CREATED BY ` + Sayooj.Z_OWNER + `\n\n` + `*•━━━━━━━━╼  ╾━━━━━━━•*`
+    await message.sendMessage(Buffer(rashi.data), MessageType.image, {mimetype: Mimetype.png, thumbnail: fs.readFileSync('./image/r.jpg'), contextInfo: {mentionedJid: message.mention}, caption: `*` + config.BOTPLK + `*` + `\n\n    CREATED BY ` + wabot.AngryBird  + `\n\n` + `*•━━━━━━━━╼  ╾━━━━━━━•*`
 }) 
 
 }));
