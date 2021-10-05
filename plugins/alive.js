@@ -68,7 +68,7 @@ else if (Config.WORKTYPE == 'public') {
     var r_text = new Array ();
 
     r_text[0] = "https://i.imgur.com/zjGsfgd.jpeg";
-    r_text[1] = "https://i.imgur.com/Odjdrrh.jpeg";
+    r_text[1] = "https://i.imgur.com/zjGsfgd.jpeg";
 
     var i = Math.floor(2*Math.random())
 
