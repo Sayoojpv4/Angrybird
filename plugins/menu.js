@@ -183,7 +183,7 @@ if (config.AUTOBİO == 'false') auto_bio = ' ᴏғғ'
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : SAYOOJ
-│ ▢ *ᴏᴡɴᴇʀ* :` + zara.Z_OWNER + `
+│ ▢ *ᴏᴡɴᴇʀ* :` + wabot.AngryBird + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 2.1
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 │ ▢ *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
