@@ -21,7 +21,7 @@ if (Config.WORKTYPE == 'private') {
 
     Ktb.addCommand({pattern: 'ws', fromMe: true, desc: Lang.WS}, (async (message, match) => {
         
-     var reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭D͙O͙W͙N͙L͙O͙A͙D͙I͙N͙G͙ W͙H͙A͙T͙S͙A͙P͙P͙ S͙T͙A͙T͙U͙S͙٭⊹•꧂*', MessageType.text);
+     var reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭DOWNLOADING WHATSAPP STATUS٭⊹•꧂*', MessageType.text);
  
         var r_text = new Array ();
 
@@ -65,7 +65,7 @@ else if (Config.WORKTYPE == 'public') {
 
     Ktb.addCommand({pattern: 'ws', fromMe: false, desc: Lang.WS}, (async (message, match) => {
         
-      var reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭D͙O͙W͙N͙L͙O͙A͙D͙I͙N͙G͙ W͙H͙A͙T͙S͙A͙P͙P͙ S͙T͙A͙T͙U͙S͙٭⊹•꧂*',MessageType.text);
+      var reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭DOWNLOADING WHATSAPP STATUS٭⊹•꧂*',MessageType.text);
  
      
         
